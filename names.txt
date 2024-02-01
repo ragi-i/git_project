@@ -1,0 +1,2 @@
+ Hey, it's a git learning project
+here we are using command to commit cg.
